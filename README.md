@@ -5,7 +5,7 @@ Perulangan atau looping dalam dunia pemrograman adalah baris kode atau instruksi
 dalam bahasa pemprograman Python, looping (perulangan) dapat menggunakan 3 cara, yaitu:
 1. For loop
 2. while loop
-3. Fungsi Rekursu=if
+3. Fungsi Rekursif
 
 Disini kita akan menggunakan For loop
 Perulangan for pada python adalah perintah yang digunakan untuk melakukan iterasi dari sebuah nilai sequence atau data koleksi pada python seperti List, Tuple, String dan lain-lain
