@@ -28,4 +28,4 @@ Jadi, ada 3 bagian penting.
 
 3. Blok kode: yaitu statemen-statemen atau perintah-perintah tertentu yang akan dieksekusi secara berulang.
 
-untuk lebih jelasya bisa langsung dicheck di coding 
+untuk lebih jelasnya bisa langsung dicheck di coding 
