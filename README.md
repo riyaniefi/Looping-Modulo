@@ -14,7 +14,7 @@ Syntax For
 Berikut ini adalah struktur sintaks metode for:
 
 for nilai in sequence:
-  # blok kode for
+  blok kode for
   
 Jadi, ada 3 bagian penting.
 
